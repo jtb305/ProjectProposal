@@ -10,7 +10,8 @@ Group Members:
 ## GUI Mockup #3
 ![End Screen] {https://graniteschools.instructure.com/groups/283107/files/121119349/preview}
 ## class Diagram #1
-![Class Diagram] {https://app.diagrams.net/#G16YTDw4sbskOuVPshpkpYL_lFca9zH4Lg}
+![Class Diagram] {![Untitled Diagram drawio](https://user-images.githubusercontent.com/89048054/160452504-e69b94eb-0e17-42d0-9e56-406a575c1551.png)
+}
 # Project Proposal 2: connect 4 Clone
 Description of the project...
 
