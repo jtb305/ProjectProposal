@@ -6,7 +6,8 @@ Group Members:
 ![Start Screen] {https://graniteschools.instructure.com/groups/283107/files/121101791/preview
 
 ## GUI Mockup #2
-![Gameplay Screen] {https://github.com/jtb305/ProjectProposal/files/8335472/battleship.gameplay.pdf}
+![Gameplay Screen] {[battleship.gameplay.pdf](https://github.com/jtb305/ProjectProposal/files/8364931/battleship.gameplay.pdf)
+}
 ## GUI Mockup #3
 ![End Screen] {https://graniteschools.instructure.com/groups/283107/files/121119349/preview}
 ## class Diagram #1
