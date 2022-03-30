@@ -25,4 +25,4 @@ A two player game where each player will first choose the color token they want 
 ## GUI Mockup #3
 ![End Screen] {https://graniteschools.instructure.com/groups/283107/files/121119372/preview}
 ## class Diagram #1
-![Class Diagram] {}
+![Class Diagram] {![image](https://user-images.githubusercontent.com/89048054/160893469-762e4e58-9702-4255-b2ce-a10c980b97bd.png)
