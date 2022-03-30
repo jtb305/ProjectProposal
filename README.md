@@ -6,7 +6,7 @@ Group Members:
 ![Start Screen] (!https://graniteschools.instructure.com/groups/283107/files/121101791/preview)
 
 ## GUI Mockup #2
-![Gameplay Screen] (![image][battleship.gameplay.pdf](https://github.com/jtb305/ProjectProposal/files/8364931/battleship.gameplay.pdf)
+![Gameplay Screen] ()
 }
 ## GUI Mockup #3
 ![End Screen] (!https://graniteschools.instructure.com/groups/283107/files/121119349/preview)
@@ -18,7 +18,8 @@ A two player game where each player will first choose the color token they want 
 
 
 ## GUI Mockup #1
-![Start Screen] (!start screen.png (Links to an external site)
+![Start Screen] (<img width="107" alt="Screen Shot 2022-03-30 at 11 29 37 AM" src="https://user-images.githubusercontent.com/89048054/160895858-99381ff2-a70a-4ad9-8f53-521b39e93e2f.png">
+)
 
 ## GUI Mockup #2
 ![Gameplay Screen] (!https://user-images.githubusercontent.com/101136474/159769069-084146a8-c3bc-4da7-a842-a008334b93c4.png)
