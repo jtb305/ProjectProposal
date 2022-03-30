@@ -14,7 +14,8 @@ Group Members:
 ![Class Diagram] {![Untitled Diagram drawio](https://user-images.githubusercontent.com/89048054/160452504-e69b94eb-0e17-42d0-9e56-406a575c1551.png)
 }
 # Project Proposal 2: connect 4 Clone
-Description of the project...
+A two player game where each player will first choose the color token they want to begin the game. The user will play against an AI. The user will choose what color token they want then the user and AI will take turns dropping their tokens into a grid, each player only gets one turn each time. The first player to get four of their tokens either horizontally, vertically, or diagonally together wins.
+
 
 ## GUI Mockup #1
 ![Start Screen] {start screen.png (Links to an external site}
