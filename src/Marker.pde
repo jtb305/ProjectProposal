@@ -1,32 +1,30 @@
 // hit and miss markers 
 class Marker {
 
-  int x, y, w, h, speed;
+  int x, y, w, h;
 
   Marker(int x, int y) {
     this.x= x;
     this.y = y;
     w = 3;
     h = 9;
-    speed = 9;
+    
   }
 
-  void display() {
+  void hitMarker() {
     fill(255, 0, 0);
     noStroke();
     rectMode(CENTER);
     rect(x, y, w, h);
   }
-
-  void move() {
-    y -= speed;
+   void missedMarker() {
+    fill(0, 0, 0);
+    noStroke();
+    rectMode(CENTER);
+    rect(x, y, w, h);
   }
 
-  boolean missedMarker() {
-    
+  
+
+ 
   }
-  boolean hitMarker() {
-    
-    }
-  }
-}
