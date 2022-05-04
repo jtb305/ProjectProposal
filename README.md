@@ -7,14 +7,15 @@ Group Members:
 
 
 ## Gameplay Screen
-![Gameplay Screen] (<img width="777" alt="Screen Shot 2022-03-30 at 11 34 37 AM" src="https://user-images.githubusercontent.com/89048054/160896607-e7eb7a7a-5e73-4495-84c3-feb68f1b10a6.png">
-)
-}
+ <img width="777" alt="Screen Shot 2022-03-30 at 11 34 37 AM" src="https://user-images.githubusercontent.com/89048054/160896607-e7eb7a7a-5e73-4495-84c3-feb68f1b10a6.png">
+
+
 ## End Screen
-![End Screen] (<img width="1990" alt="Screen Shot 2022-04-20 at 1 04 59 PM" src="https://user-images.githubusercontent.com/89169471/166748706-e103dbb8-df1b-4abe-8d62-360c4b79b753.png">)
+ <img width="1990" alt="Screen Shot 2022-04-20 at 1 04 59 PM" src="https://user-images.githubusercontent.com/89169471/166748706-e103dbb8-df1b-4abe-8d62-360c4b79b753.png">
+
 ## Class Diagram 
 
-![Class Diagram] {![Untitled Diagram drawio](https://user-images.githubusercontent.com/89048054/160452504-e69b94eb-0e17-42d0-9e56-406a575c1551.png)
+ {![Untitled Diagram drawio](https://user-images.githubusercontent.com/89048054/160452504-e69b94eb-0e17-42d0-9e56-406a575c1551.png)
 }
 
 
