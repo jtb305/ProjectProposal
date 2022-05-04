@@ -15,7 +15,7 @@ Group Members:
 
 ## Class Diagram 
 
- {![Untitled Diagram drawio](https://user-images.githubusercontent.com/89048054/160452504-e69b94eb-0e17-42d0-9e56-406a575c1551.png)
-}
+ ![Untitled Diagram drawio](https://user-images.githubusercontent.com/89048054/160452504-e69b94eb-0e17-42d0-9e56-406a575c1551.png)
+
 
 
