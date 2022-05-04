@@ -1,6 +1,8 @@
 # Battleship clone: Opean Sea Grid Combat
-BattleShip is a popular board game where two players are given ships of varying sizes to place on a grid and take turns trying to shoot the opponets ships. First you place the ships on the board. Next the players take turns selecting an opponents grid square to shoot and are told if they hit. missed, or destroyed a ship. A ship is destroyed when all the squares it is on have been destroied. When all of the opponets ships have sunk you win.
-Group Members: 
+BattleShip is a popular board game where two players are given ships of varying sizes to place on a grid and take turns trying to shoot the opponets ships. First you place the ships on the board. Next the players take turns selecting an opponents grid square to shoot and are told if they hit. missed, or destroyed a ship. A ship is destroyed when all the squares it is on have been destroyed. When all of the opponets ships have sunk you win. Our version, Opean Sea Grid Combat, is set up the same way as Battleship. 
+Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
+Credit to: 8 bit universe for the music we have put in and Mr. Kapptie for all the support.
+
 
 ## Start Screen
  <img width="1994" alt="Screen Shot 2022-04-18 at 11 39 57 AM" src="https://user-images.githubusercontent.com/89169471/166748534-e7805b5e-82a7-433d-9ecf-4c3d7347865d.png">
