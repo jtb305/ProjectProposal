@@ -3,7 +3,7 @@ BattleShip is a popular board game where two players are given ships of varying 
 Group Members: 
 
 ## Start Screen
- (<img width="1994" alt="Screen Shot 2022-04-18 at 11 39 57 AM" src="https://user-images.githubusercontent.com/89169471/166748534-e7805b5e-82a7-433d-9ecf-4c3d7347865d.png">)
+ <img width="1994" alt="Screen Shot 2022-04-18 at 11 39 57 AM" src="https://user-images.githubusercontent.com/89169471/166748534-e7805b5e-82a7-433d-9ecf-4c3d7347865d.png">
 
 
 ## Gameplay Screen
