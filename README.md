@@ -3,7 +3,7 @@ BattleShip is a popular board game where two players are given ships of varying 
 
 Group Members: Sophie Kolb, John Billick, Max Schroeder, and Sadie Greenberg
  
-Credit to: 8 bit universe for the music we have put in and Mr. Kapptie for all the support :) <3
+Credit to: 8 bit universe for the music we have put in and Mr. Kapptie for all the support :) 
 
 
 ## Start Screen
