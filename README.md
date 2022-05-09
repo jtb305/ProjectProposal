@@ -11,7 +11,8 @@ Credit to: 8 bit universe for the music we have put in and Mr. Kapptie for all t
 
 
 ## Gameplay Screen
- <img width="777" alt="Screen Shot 2022-03-30 at 11 34 37 AM" src="https://user-images.githubusercontent.com/89048054/160896607-e7eb7a7a-5e73-4495-84c3-feb68f1b10a6.png">
+ <img width="2142" alt="Screen Shot 2022-05-09 at 12 00 55 PM" src="https://user-images.githubusercontent.com/89169471/167469893-9d6ed103-ee6f-433a-ba62-b2e776302cb0.png">
+
 
 
 ## End Screen
